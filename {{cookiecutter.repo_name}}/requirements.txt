@@ -1,0 +1,9 @@
+mlflow
+hydra-core
+dvc
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
